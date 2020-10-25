@@ -324,6 +324,7 @@ main {
 .section4 .wrapper .contact input {
   width: 95%;
   height: 2rem;
+  margin-top:1rem;
   margin-bottom: 1rem;
   outline-color: green;
 }
